@@ -1,2 +1,2 @@
 # react-hooks-form
-authantication form using react with Hooks
+auth form using react with Hooks
